@@ -6,7 +6,7 @@
   "license": "MIT",
   "minimum-stability": "dev",
   "require": {
-    "sergey-yabloncev/yandex-market-php-common": "1.*.*"
+    "sergey-yabloncev/yandex-market-php-common": "^1.0"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0",
