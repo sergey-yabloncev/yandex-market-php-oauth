@@ -1,5 +1,5 @@
 {
-  "name": "yandex-market/yandex-market-php-oauth",
+  "name": "sergey-yabloncev/yandex-market-php-oauth",
   "description": "Yandex PHP OAuth library.",
   "keywords":["yandex","sdk", "OAuth"],
   "type":"library",
@@ -17,6 +17,10 @@
     {
       "name": "Kirill Litvinov",
       "email": "ym-sdk@yandex-team.ru"
+    },
+    {
+      "name": "Sergey Yablontsev",
+      "email": "sergey@yablontsev.ru"
     }
   ],
   "autoload": {
